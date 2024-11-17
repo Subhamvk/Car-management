@@ -3,7 +3,7 @@ info:
   title: Car Managment
   version: 1.0.0
 servers:
-  - url: http://localhost:5000
+  - url: https://car-management-108y.onrender.com
 components:
   securitySchemes:
     bearerAuth:

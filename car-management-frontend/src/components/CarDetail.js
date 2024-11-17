@@ -133,7 +133,7 @@ const CarDetail = () => {
             {car.images.map((img, index) => (
               <img
                 key={index}
-                src={`http://localhost:5000/${img}`}
+                src={`https://car-management-108y.onrender.com/${img}`}
                 alt={`Car ${index}`}
                 className="car-image"
               />

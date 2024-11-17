@@ -46,7 +46,7 @@ const CarList = () => {
                {/* Display the first image */}
                {car.images && car.images.length > 0 ? (
                 <img
-                  src={`http://localhost:5000/${car.images[0]}`}
+                  src={`https://car-management-108y.onrender.com/${car.images[0]}`}
                   alt={`Car thumbnail`}
                   className="car-card-image"
                 />

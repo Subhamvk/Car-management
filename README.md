@@ -74,7 +74,7 @@ A full-stack application for managing cars, allowing users to add, update, delet
    ```bash
    npm start
    ```
-5. Access the backend at [http://localhost:5000](http://localhost:5000).
+5. Access the backend at [https://car-management-108y.onrender.com](https://car-management-108y.onrender.com).
 
 ---
 
@@ -82,7 +82,7 @@ A full-stack application for managing cars, allowing users to add, update, delet
 
 ### **Swagger UI**
 This project uses **Swagger** for API documentation. The API documentation is served at:
-[http://localhost:5000/api/docs](http://localhost:5000/api/docs)
+[https://car-management-108y.onrender.com/api/docs](https://car-management-108y.onrender.com/api/docs)
 
 ### **How to Use the Documentation**
 1. Open the `/api/docs` endpoint in your browser.
