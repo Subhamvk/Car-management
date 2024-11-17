@@ -5,6 +5,18 @@ A full-stack application for managing cars, allowing users to add, update, delet
 
 ---
 
+Deployment
+Frontend
+The frontend is deployed on Vercel and can be accessed at:
+car-management-dinxk0gaq-subhamvks-projects.vercel.app
+
+Alternate URL:
+car-management-puce.vercel.app
+
+Backend
+The backend is deployed on Render and can be accessed at:
+[Car Management Backend](https://car-management-108y.onrender.com)
+
 ## 🖥️ **Frontend**
 
 ### **Tech Stack**
@@ -90,6 +102,8 @@ This project uses **Swagger** for API documentation. The API documentation is se
 3. Use the "Try it out" feature to test API endpoints directly from the documentation.
 
 ---
+
+
 
 ## 🚀 **How to Run the Project**
 
